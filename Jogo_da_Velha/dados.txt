@@ -1,0 +1,18 @@
+﻿Nome: Marcelo
+Participações: 0
+Vitórias: 0
+Derrotas: 0
+Empates: 0
+-----------------------------
+Nome: Joao
+Participações: 0
+Vitórias: 0
+Derrotas: 0
+Empates: 0
+-----------------------------
+Nome: aleatorio
+Participações: 10
+Vitórias: 2
+Derrotas: 5
+Empates: 3
+-----------------------------
